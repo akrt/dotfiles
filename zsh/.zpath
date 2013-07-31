@@ -1,0 +1,14 @@
+path=(
+/opt/local/bin
+/opt/local/sbin
+/var/lib/gems/1.8/bin
+/sbin
+~/bin
+/bin
+/usr/bin
+/usr/sbin
+/usr/X11/bin
+/usr/local/bin
+/usr/local/sbin
+/usr/local/mysql/bin
+)

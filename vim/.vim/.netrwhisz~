@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Users/akira/Dropbox/private/google'
+let g:netrw_dirhist_2='/Users/akira'
+let g:netrw_dirhist_3='/Applications/MAMP/htdocs'
+let g:netrw_dirhist_4='/Applications/MAMP/htdocs/js'

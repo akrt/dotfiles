@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/Users/akira/Dropbox/dev/php/yammer'
+let g:netrw_dirhist_2='/Applications/MAMP/htdocs/study/oop'
+let g:netrw_dirhist_3='/Applications/MAMP/htdocs/wap'
+let g:netrw_dirhist_4='/Applications/MAMP/htdocs/appfog/app/Config'
+let g:netrw_dirhist_5='/Applications/MAMP/www_data/askawa/app/Controller'
+let g:netrw_dirhist_6='/Applications/MAMP/htdocs/app/View/Main'
+let g:netrw_dirhist_7='/Applications/MAMP/htdocs_bak/wap'
+let g:netrw_dirhist_8='/Users/akira/var/www/bootstrap/js'

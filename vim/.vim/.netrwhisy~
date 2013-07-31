@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/akira/Dropbox/private/google'
+let g:netrw_dirhist_2='/Users/akira'
+let g:netrw_dirhist_3='/Applications/MAMP/htdocs'
+let g:netrw_dirhist_4='/Applications/MAMP/htdocs/js'
+let g:netrw_dirhist_5='/Applications/MAMP/www_data/pinterest/app/View/Layouts'
+let g:netrw_dirhist_6='/Applications/MAMP/www_data/pinterest/app/View'
+let g:netrw_dirhist_7='/Applications/MAMP/www_data/pinterest/app/View/Feeds'

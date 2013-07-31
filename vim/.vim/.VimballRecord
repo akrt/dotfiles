@@ -1,0 +1,2 @@
+Align.vba: call delete('/Users/akira/.vim/plugin/AlignPlugin.vim')|call delete('/Users/akira/.vim/plugin/AlignMapsPlugin.vim')|call delete('/Users/akira/.vim/plugin/cecutil.vim')|call delete('/Users/akira/.vim/doc/Align.txt')|call delete('/Users/akira/.vim/autoload/Align.vim')|call delete('/Users/akira/.vim/autoload/AlignMaps.vim')
+zenburn.vba: call delete('/Users/akira/.vim/colors/zenburn.vim')
